@@ -1,0 +1,164 @@
+*{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+/* Banner section */
+.banner{
+    background-image: url('../images/banner/banner2.png');
+    background-repeat: no-repeat;
+     padding: 216px 230px 175px 845px; 
+}
+.banner-title{
+    font-size: 65;
+    font-weight: 700;
+    text-align: right;
+    color: #151414;
+    margin-bottom: 24px;
+
+}
+.banner-description{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: right;
+    margin-bottom: 32px;
+    color: #444343;
+}
+.contact{
+    text-align: right;
+
+}
+.button-primary{
+    padding: 20px 25px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    border: none;
+    background-color: orange;
+
+}
+/*  previous year section */
+.infor-container{
+    display: flex;
+    gap: 90px;
+    margin: 130px 250px 130px 206px;
+}
+.info-title{
+    margin-top: 120px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+    text-align: left;
+}
+.info-description{
+    font-size: 16px;
+    font-weight: 400px;
+    text-align: left;
+    color: #444343;
+}
+.information{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    color: #444343;
+    margin-bottom: 8px;
+}
+.cheak-mark{
+    color: green;
+    font-size: 25px;
+    font-weight: 500;
+}
+/* My Plans sections */
+.plan{
+    text-align: center;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.skill{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+.skill-title{
+    
+    font-size: 30px;
+    font-weight: 600;
+    color: #151414;
+}
+.skill-sub-title{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400px;
+    color: #737272;
+}
+.skill-icon{
+    text-align: center;
+}
+.minset{
+    background-image: url('../images/gradient2.png'),url('../images/watch.png');
+    background-repeat: no-repeat;
+    justify-content: center;
+    margin: 0px 230px 130px;
+    border-radius: 5px;
+    
+}
+
+.minset-section .title{
+    padding: 60px 0px 20px 60px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+
+}
+
+.call-contact{
+    text-align: left;
+    padding: 0 0 60px 60px;
+}
+
+/* footer section */
+.footer{
+    display: flex;
+    gap: 330px;
+    padding: 130px 230px;
+    background-color: black;
+}
+.future-section{
+    color: #FFFFFF;
+}
+.future-title{
+    font-weight: 700;
+    font-size: 45px;
+}
+.future-description{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.subscribe{
+    font-weight: 600;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 30px;
+}
+.em{
+   
+    text-align: left;
+    padding: 20px 25px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    border: 2px solid white;
+    background-color: rgb(0, 0, 0);
+    
+}
+
+.phone-contact{
+    text-align: left;
+    margin-top: 16px;
+}
